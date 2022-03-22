@@ -1,0 +1,18 @@
+
+> react-typescript-starter@0.1.0 test
+> react-scripts test "--coverage"
+
+PASS src/App.test.tsx
+  ✓ renders the course name somewhere (45 ms)
+
+----------|---------|----------|---------|---------|-------------------
+File      | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
+----------|---------|----------|---------|---------|-------------------
+All files |      50 |      100 |   33.33 |      50 |                   
+ App.tsx  |      50 |      100 |   33.33 |      50 | 13-16             
+----------|---------|----------|---------|---------|-------------------
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        2.076 s
+Ran all test suites.
